@@ -1,4 +1,3 @@
-#dtLabsProject - IoT Backend
 
 #Pré-requisitos
 Docker e Docker Compose instalados
