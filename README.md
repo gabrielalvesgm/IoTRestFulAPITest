@@ -5,7 +5,7 @@ Docker e Docker Compose instalados
 Como rodar o app:
 1. Clone o repositório:
 
-   git clone https://github.com/gabrielalvesgm/exame-backend-dtlabs-2025
+   git clone https://github.com/gabrielalvesgm/IoTRestFulAPITest
 
    cd dtlabsproject
 
